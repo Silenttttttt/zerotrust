@@ -177,7 +177,7 @@ protocol = ZeroTrustProtocol(
 
 ## 📚 Examples
 
-See the [p2p-battleship](https://github.com/Silenttttttt/p2p-battleship) repository for a complete example application using this framework.
+See the [p2p-battleship](https://github.com/Silenttttttt/crypto-battleship-p2p) repository for a complete example application using this framework.
 
 ## 🧪 Testing
 
@@ -200,6 +200,6 @@ Contributions welcome! Please open an issue or submit a pull request.
 ## 🔗 Links
 
 - **Documentation**: [Full API Documentation](https://github.com/Silenttttttt/zerotrust#readme)
-- **Example Application**: [p2p-battleship](https://github.com/Silenttttttt/p2p-battleship)
+- **Example Application**: [p2p-battleship](https://github.com/Silenttttttt/crypto-battleship-p2p)
 - **Issues**: [GitHub Issues](https://github.com/Silenttttttt/zerotrust/issues)
 
