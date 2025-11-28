@@ -30,7 +30,7 @@ A complete framework providing:
 
 ```bash
 # From source (development)
-git clone https://github.com/yourusername/zerotrust-framework
+git clone https://github.com/Silenttttttt/zerotrust
 cd zerotrust-framework
 pip install -e .
 
@@ -177,7 +177,7 @@ protocol = ZeroTrustProtocol(
 
 ## 📚 Examples
 
-See the [p2p-battleship](https://github.com/yourusername/p2p-battleship) repository for a complete example application using this framework.
+See the [p2p-battleship](https://github.com/Silenttttttt/p2p-battleship) repository for a complete example application using this framework.
 
 ## 🧪 Testing
 
@@ -199,7 +199,7 @@ Contributions welcome! Please open an issue or submit a pull request.
 
 ## 🔗 Links
 
-- **Documentation**: [Full API Documentation](https://github.com/yourusername/zerotrust-framework#readme)
-- **Example Application**: [p2p-battleship](https://github.com/yourusername/p2p-battleship)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/zerotrust-framework/issues)
+- **Documentation**: [Full API Documentation](https://github.com/Silenttttttt/zerotrust#readme)
+- **Example Application**: [p2p-battleship](https://github.com/Silenttttttt/p2p-battleship)
+- **Issues**: [GitHub Issues](https://github.com/Silenttttttt/zerotrust/issues)
 
